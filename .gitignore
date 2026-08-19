@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+*.o
+*.obj
+*.mex*
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# Python test/cache
+.pytest_cache/
+.mypy_cache/
